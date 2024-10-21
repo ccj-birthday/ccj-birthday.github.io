@@ -1275,7 +1275,8 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
+	color:#FFD700;
+	/*color: #C4515C;*/
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
